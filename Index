@@ -6,7 +6,7 @@
     <meta name="description" content="Café Clover is a cozy fantasy cafe offering a variety of coffee, tea, and pastries. Enjoy a relaxing atmosphere and delicious treats.">
     <meta content="Café Clover" property="og:title">
     <meta property="og:type" content="website">
-    <meta content="" property="og:image">
+    <meta content="https://github.com/you36911-lab/Cafe-Clover/blob/9f872f23cd69578fc38c9c34f257161432fb1bb3/Caf%C3%A9%20Clover.webp" property="og:image">
     <meta property="og:url" content="https://www.cafeclover.com/menu">
 	<title>Café Clover</title>
     <link rel="stylesheet" href="style.css">
