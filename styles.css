@@ -1,8 +1,14 @@
 
 .header {
-  height: 80px;
+  height: 60px;
   background-color: #f9fbf2;
   width: 100%;
-  
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
+.logo {
+  height: 45px;
+  width: auto;
+}
