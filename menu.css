@@ -251,7 +251,7 @@ figcaption {
     .drinks-button-zone {
         height: auto;
         align-items: flex-start;
-        padding: 0;
+        padding: 0.5rem 0;
     }
 
     .menu-category {
