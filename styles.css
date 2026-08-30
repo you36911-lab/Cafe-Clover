@@ -131,11 +131,11 @@ body::-webkit-scrollbar {
 
 @media (max-width: 600px) {
   .header {
-    height: 80px;
+    height: 70px;
   }
 
   .logo {
-    height: 45px;
+    height: 35px;
     margin-left: 12px;
   }
 
@@ -147,8 +147,8 @@ body::-webkit-scrollbar {
   .menu-button {
     right: 12px;
     padding: 6px 12px;
-    font-size: 1.3em;
-    height: 45px;
+    font-size: 1.5em;
+    height: 35px;
     width: auto;
     -webkit-tap-highlight-color: transparent;
 }
