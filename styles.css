@@ -20,7 +20,7 @@ body::-webkit-scrollbar {
 }
 
 .header {
-  height: 70px;
+  height: 75px;
   background-color: #f0ebd2;
   width: 100%;
   display: flex;
