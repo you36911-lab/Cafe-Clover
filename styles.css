@@ -92,6 +92,7 @@ body::-webkit-scrollbar {
   width: 90%;
   box-sizing: border-box;
   padding: 0 0.5rem;
+  margin-bottom: 30px;
 }
 
 .notice {
@@ -109,6 +110,7 @@ body::-webkit-scrollbar {
   width: 90%;
   box-sizing: border-box;
   padding: 0 0.5rem;
+  margin-bottom: 35px;
 }
 
 .menu-button {
@@ -169,8 +171,10 @@ body::-webkit-scrollbar {
 
 .contact-info {
   bottom: 2px;
+  margin-bottom: 0;
 }
 
 .notice {
   bottom: 55px;
+  margin-bottom: 0;
 }
