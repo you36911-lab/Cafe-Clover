@@ -131,39 +131,28 @@ body::-webkit-scrollbar {
 
 @media (max-width: 600px) {
   .header {
-    height: 70px;
+    height: 76px;
   }
 
   .logo {
-    height: 35px;
+    height: 44px;
     margin-left: 12px;
   }
 
   .header-title {
-    font-size: 1.8em;
+    font-size: 1.7em;
     margin-left: 8px;
   }
 
   .menu-button {
     right: 12px;
-    padding: 6px 12px;
-    font-size: 1.5em;
-    height: 35px;
-    width: auto;
+    padding: 8px 14px;
+    font-size: 1em;
     -webkit-tap-highlight-color: transparent;
-}
+  }
 
-.menu-button:hover {
-  background-color: #889b7b;
-  color: #f0ebd2;
-}
-
-.menu-button:active {
-  background-color: #F3C0C6;
-  color: #889b7b;
-}
-
-.menu-button:focus {
-  background-color: #F3C0C6;
-  color: #889b7b;
+  .hero {
+    height: calc(100vh - 76px);
+    height: calc(100lvh - 76px);
+  }
 }
