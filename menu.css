@@ -249,6 +249,7 @@ figcaption {
 
     .drinks-button-zone {
         height: auto;
+        min-height: 7.5rem;
         align-items: flex-start;
         padding: 0.85rem 0;
     }
