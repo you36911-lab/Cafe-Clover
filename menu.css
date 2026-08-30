@@ -251,7 +251,7 @@ figcaption {
     .drinks-button-zone {
         height: auto;
         align-items: flex-start;
-        padding: 0.5rem 0;
+        padding: 1rem 0;
     }
 
     .menu-category {
@@ -262,14 +262,14 @@ figcaption {
 
     .menu-filter {
         flex-wrap: wrap;
-        gap: 0.5rem;
+        row-gap: 0;
+        column-gap: 0.5rem;
     }
 
     .filter-break {
         flex-basis: 100%;
         width: 0;
-        height: 0;
-        margin-top: -10px;
+        height: 0.5rem;
     }
 
     .menu-filter.no-wrap {
