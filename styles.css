@@ -20,7 +20,7 @@ body::-webkit-scrollbar {
 }
 
 .header {
-  height: 75px;
+  height: 80px;
   background-color: #f0ebd2;
   width: 100%;
   display: flex;
@@ -79,7 +79,7 @@ body::-webkit-scrollbar {
 
 .contact-info {
   position: absolute;
-  bottom: 0;
+  bottom: 15px;
   left: 50%;
   transform: translateX(-50%);
   z-index: 1;
@@ -96,7 +96,7 @@ body::-webkit-scrollbar {
 
 .notice {
   position: absolute;
-  bottom: 53px;
+  bottom: 68px;
   left: 50%;
   transform: translateX(-50%);
   z-index: 1;
