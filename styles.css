@@ -166,3 +166,11 @@ body::-webkit-scrollbar {
   object-fit: cover;
   object-position: center;
 }
+
+.contact-info {
+  bottom: 10px;
+}
+
+.notice {
+  bottom: 63px;
+}
