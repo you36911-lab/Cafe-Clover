@@ -213,6 +213,10 @@ figcaption {
     width: 80%;
 }
 
+.filter-break {
+  display: none;
+}
+
 @media (max-width: 768px) {
     .title {
         width: 95%;
@@ -272,6 +276,7 @@ figcaption {
         flex-basis: 100%;
         width: 0;
         height: 0.5rem;
+        display: block;
     }
 
     .menu-filter.no-wrap {
