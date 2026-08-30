@@ -162,3 +162,8 @@ body::-webkit-scrollbar {
   background-color: #F3C0C6;
   color: #889b7b;
 }
+
+.menu-button:focus {
+  background-color: #F3C0C6;
+  color: #889b7b;
+}
