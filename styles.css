@@ -167,12 +167,12 @@ body::-webkit-scrollbar {
 }
 
 .contact-info {
-  bottom: 10px;
+  bottom: 20px;
   margin-bottom: 0;
 }
 
 .notice {
-  bottom: 55px;
+  bottom: 65px;
   margin-bottom: 0;
 }
 }
