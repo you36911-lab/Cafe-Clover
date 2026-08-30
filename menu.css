@@ -249,7 +249,6 @@ figcaption {
 
     .drinks-button-zone {
         height: auto;
-        min-height: 7.5rem;
         align-items: flex-start;
         padding: 0.85rem 0;
     }
@@ -269,7 +268,7 @@ figcaption {
         flex-basis: 100%;
         width: 0;
         height: 0;
-        margin-top: -0.5rem;
+        margin-top: -0.2rem;
     }
 
     .menu-filter.no-wrap {
