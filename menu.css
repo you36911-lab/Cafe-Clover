@@ -247,8 +247,9 @@ figcaption {
     }
 
     .menu-category {
-        font-size: 1.4rem;
+        font-size: 1.3rem;
         margin-top: 0;
+        padding-top: 0;
     }
 
     .menu-filter {
