@@ -204,14 +204,51 @@ figcaption {
 }
 
 @media (max-width: 768px) {
+    .title {
+        width: 92%;
+        padding: 0 0.75rem;
+    }
+
     .drinks-section {
         grid-template-columns: repeat(2, minmax(0, 1fr));
-        gap: 1.25rem;
+        gap: 1rem;
     }
 
     .title-header {
         flex-wrap: wrap;
         row-gap: 0.5rem;
+    }
+
+    .drink-block {
+        height: auto;
+        min-height: 18rem;
+        padding-top: 1.25rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    .drink-image {
+        height: 9rem;
+    }
+
+    .category-style {
+        padding: 1rem 0;
+    }
+
+    .drinks-button-zone {
+        height: auto;
+        align-items: flex-start;
+        flex-wrap: wrap;
+        padding: 0.85rem 0;
+    }
+
+    .menu-category {
+        font-size: 1.2rem;
+        margin-top: 0.1rem;
+    }
+
+    .menu-filter {
+        flex-wrap: wrap;
     }
 }
 
