@@ -79,7 +79,7 @@ body::-webkit-scrollbar {
 
 .contact-info {
   position: absolute;
-  bottom: 15px;
+  bottom: 25px;
   left: 50%;
   transform: translateX(-50%);
   z-index: 1;
@@ -96,7 +96,7 @@ body::-webkit-scrollbar {
 
 .notice {
   position: absolute;
-  bottom: 68px;
+  bottom: 78px;
   left: 50%;
   transform: translateX(-50%);
   z-index: 1;
