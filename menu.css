@@ -83,6 +83,8 @@ body {
     box-sizing: border-box;
     justify-self: center;
     border-radius: clamp(0.5rem, 0.52vw, 0.56rem);
+    padding-left: clamp(0.5rem, 0.52vw, 0.56rem);
+    padding-right: clamp(0.5rem, 0.52vw, 0.56rem);
 }
 
 .drinks-button-zone,
