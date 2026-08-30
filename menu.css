@@ -124,9 +124,17 @@ body {
   border-radius: clamp(0.2rem, 0.21vw, 0.22rem);
 }
 
-.filter-button:hover {
+.filter-button:hover,
+.filter-button.active {
   background-color: #F3C0C6;
   color: #889b7b;
+}
+
+.filter-break {
+  flex-basis: auto;
+  width: 0;
+  height: 0;
+  overflow: hidden;
 }
 
 .drinks-section {
@@ -241,8 +249,7 @@ figcaption {
 
     .drinks-button-zone {
         height: auto;
-        align-items: flex-start;
-        flex-wrap: wrap;
+        align-items: center;
         padding: 0.85rem 0;
     }
 
@@ -255,5 +262,10 @@ figcaption {
     .menu-filter {
         flex-wrap: wrap;
     }
-}
 
+    .filter-break {
+        flex-basis: 100%;
+        width: 0;
+        height: 0;
+    }
+}
