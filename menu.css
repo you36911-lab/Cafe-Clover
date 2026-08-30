@@ -225,6 +225,7 @@ figcaption {
     .title-header {
         flex-wrap: wrap;
         row-gap: 0.5rem;
+        margin-top: 0;
     }
 
     .drink-block {
