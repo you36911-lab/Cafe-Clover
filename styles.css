@@ -152,7 +152,6 @@ body::-webkit-scrollbar {
   }
 
   .hero {
-    height: calc(100vh - 76px);
-    height: calc(100lvh - 76px);
+    height: 100vh;
   }
 }
